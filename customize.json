@@ -2,8 +2,8 @@
   "greeting": "One",
   "name": "One",
   "greetingText": "生辰吉乐,遥叩芳辰",
-  "wishText": "你是最美的饱饱 ;)",
-  "imagePath": "img/lydia2.png",
+  "wishText": "你是最美的饱饱 :)",
+  "imagePath": "img/wjy.jpg",
   "text1": "你的20岁生日!!! :D",
   "textInChatBox": "祝你生日快乐!! 啊啊啊! 然后写小作文...",
   "sendButtonLabel": "发送",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "因",
   "bigTextPart2": "此",
-  "wishHeading": "我做了这个小玩意！",
-  "outroText": "我家静宜20岁开始奔三啦！",
-  "replayText": "你可以 click ←, 如果你想再看一遍嘻嘻",
+  "wishHeading": "生日快乐哇！！！",
+  "outroText": "我家静宜20岁啦！",
+  "replayText": "你可以 click ←, 如果你想再看一遍，嘻嘻",
   "outroSmiley": ":)"
 }
